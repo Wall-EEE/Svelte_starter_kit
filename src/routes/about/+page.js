@@ -1,3 +1,8 @@
+/** @type {import('@sveltejs/adapter-vercel').Config} */
+export const config = {
+	runtime: 'edge'
+};
+
 import { dev } from '$app/environment';
 
 // we don't need any JS on this page, though we'll load
