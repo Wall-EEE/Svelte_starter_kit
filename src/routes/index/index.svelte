@@ -35,7 +35,7 @@
 
 <SvelteSeo
   title="HealthTalk"
-  description="HealthTalk is a blog about health and wellness."
+  description="HealthTalk is a blog about health and wellness"
 />
 <section class="">
     {#each result.result as notionItem}
