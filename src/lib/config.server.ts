@@ -9,6 +9,5 @@ export const appConfig = {
         title: 'title',
         summary: 'summary',
         tags: 'tags',
-        author: 'author'
     }
 }
